@@ -1,6 +1,6 @@
 # Restaurant-Billing-System-in-Python
 
-I have created restaurant billing system in python.
+Restaurant billing system in python with Login/register feature.
 
 Following are the Features of this program :-
 
